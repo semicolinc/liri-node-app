@@ -4,11 +4,11 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 Requirements
 
 You will need to have the following installed:
-dotenv
-node-spotify-api (requires own key)
-axios
-moment
-fs
+dotenv - https://www.npmjs.com/package/dotenv
+node-spotify-api (requires own key) - https://www.npmjs.com/package/node-spotify-api
+axios - https://www.npmjs.com/package/axios
+moment - https://www.npmjs.com/package/moment
+fs - https://www.npmjs.com/package/fs
 
 Commands
 
